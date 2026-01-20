@@ -1,4 +1,4 @@
-# ZultraWeather
-This is just the repository docs website
+# ZultraAI
+This is just the website files
 
 Nothing here :)
